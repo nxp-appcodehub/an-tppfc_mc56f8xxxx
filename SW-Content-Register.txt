@@ -1,0 +1,37 @@
+Release Name: an-tppfc_mc56f8xxxx
+Release Version: 1.0
+Package License:  LA_OPT_NXP_Software_License v48 July 2023 - Additional Distribution License granted, license in Section 2.3 applies
+License File: LICENSE.txt
+Description: This is a totem-pole bridgeless power factor correction reference design using MC56F8xxxx DSC.
+Release Location: https://github.com/nxp-appcodehub/an-tppfc_mc56f8xxxx
+Origin: NXP
+
+rtcesl                     Author: NXP                                       
+                           version: 4.5                                      
+                           name: rtcesl                                      
+                           Format: source code & object code & header files                
+                           License File: LICENSE.txt  
+                           Outgoing License: LA_OPT_NXP_SOFTWARE_License - Additional distribution license granted, license in Section 2.3 applies             
+                           Location: TPPFC_MC56F83783_V1.0\DSP56800EX_RTCESL_4.5, TPPFC_MC56F82748_V1.0\DSP56800EX_RTCESL_4.5, TPPFC_MC56F81768_V1.0\DSP56800EX_RTCESL_4.5                      
+                           Description: NXP Real Time Control Embedded Software Library for DSC.           
+
+                    
+freemaster                 Author: NXP                                       
+                           version: 1.8.2                                    
+                           name: FreeMASTER                                  
+                           Format: source code & header files                
+                           License File: LICENSE.txt  
+                           Outgoing License: LA_OPT_NXP_Software_License.txt - Additional distribution license granted - License in Section 2.3 applies                      
+                           Location: TPPFC_MC56F83783_V1.0\FreeMASTER,  TPPFC_MC56F82748_V1.0\FreeMASTER, TPPFC_MC56F1768_V1.0\FreeMASTER                 
+                           Description: FreeMASTER run-time debugging tool   
+         
+
+TPFPC_control          Name: TPPFC control related source codes                      
+                           Version: NA                                    
+                           License File: COPYING-BSD-3 
+                           Outgoing License: BSD-3-Clause
+                           Format: source code & header files                              
+                           Description: TPPFC platform control algorithm                      
+                           Location: TPPFC_MC56F83783_V1.0\Sources,TPPFC_MC56F83783_V1.0\Project_Headers,TPPFC_MC56F83783_V1.0\Project_Settings 
+                                     TPPFC_MC56F82748_V1.0\Sources,TPPFC_MC56F82748_V1.0\Generated_Code,TPPFC_MC56F82748_V1.0\Project_Headers,TPPFC_MC56F82748_V1.0\Project_Settings,TPPFC_MC56F82748_V1.0\Static_Code
+                                     TPPFC_MC56F81768_V1.0\Sources,TPPFC_MC56F81768_V1.0\Peripherals,TPPFC_MC56F81768_V1.0\Project_Headers,TPPFC_MC56F81768_V1.0\Project_Settings
