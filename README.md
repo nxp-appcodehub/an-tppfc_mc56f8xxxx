@@ -40,7 +40,7 @@ The software for this Application Note is delivered in raw source files and Code
 * Plug in the control card, connect the input voltage and load to setup the development enviroment. If you want to control and monitor the working status of the system, using FreeMaster by connecting the micro interface on the control card to the PC through a micro USB cable.
 * Input power on, then the system starts working.
 
-![develop_environment](images/development_environment.PNG)
+![develop_environment](images/development_environment.png)
 
 
 ## 4. Results<a name="step4"></a>
@@ -48,9 +48,9 @@ A programmable AC source, **Chroma, model 61704**, is used as AC voltage input f
 * Power factor under full load is around 0.99 and THDi is around 3%.
 * Peak frequency is greater than 98%.
 
-![performance_at_Vinrms=110V](images/performance_at_Vinrms=110V.PNG)
+![performance_at_Vinrms=110V](images/performance_at_Vinrms=110V.png)
 
-![performance_at_Vinrms=220V](images/performance_at_Vinrms=220V.PNG)
+![performance_at_Vinrms=220V](images/performance_at_Vinrms=220V.png)
 
 ## 5. FAQs<a name="step5"></a>
 **5.1 How to control the on/off the converter?**
